@@ -1,0 +1,6 @@
+node_modules/
+reports/html/
+reports/cucumber-report.json
+reports/cucumber-report.html
+.env
+*.log
