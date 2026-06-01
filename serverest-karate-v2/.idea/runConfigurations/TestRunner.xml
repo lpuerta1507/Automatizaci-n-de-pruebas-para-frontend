@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestRunner" type="JUnit" factoryName="JUnit">
+    <module name="serverest-karate" />
+    <option name="MAIN_CLASS_NAME" value="serverest.runners.TestRunner" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <option name="VM_PARAMETERS"
+            value="-Dfile.encoding=UTF-8 --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED" />
+    <shortenClasspath name="CLASSPATH_FILE" />
+  </configuration>
+</component>
